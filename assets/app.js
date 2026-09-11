@@ -1,0 +1,1 @@
+document.querySelector('#theme')?.addEventListener('click',()=>document.body.classList.toggle('dark'));document.querySelector('#openSearch')?.addEventListener('click',()=>alert('Use the Drill Library filters to search all drills.')); 
