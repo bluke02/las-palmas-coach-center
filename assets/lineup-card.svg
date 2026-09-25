@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Generic baseball and softball lineup card example</title>
+  <desc id="desc">A sample lineup card with batting order, player names, positions, starter status, and playing-time tracking columns.</desc>
+  <rect width="1200" height="760" fill="#f2f8fd"/>
+  <rect x="35" y="30" width="1130" height="700" rx="24" fill="#fff" stroke="#0862bb" stroke-width="4"/>
+  <rect x="35" y="30" width="1130" height="105" rx="24" fill="#031f46"/>
+  <path d="M35 108h1130v27H35z" fill="#031f46"/>
+  <text x="75" y="82" fill="#fff" font-family="Arial,sans-serif" font-size="38" font-weight="700">GAME LINEUP CARD</text>
+  <text x="950" y="78" fill="#ffd66b" font-family="Arial,sans-serif" font-size="22" font-weight="700">SAMPLE</text>
+  <text x="75" y="178" fill="#11283f" font-family="Arial,sans-serif" font-size="24" font-weight="700">Team: Las Palmas</text>
+  <text x="470" y="178" fill="#11283f" font-family="Arial,sans-serif" font-size="24" font-weight="700">Opponent: __________</text>
+  <text x="900" y="178" fill="#11283f" font-family="Arial,sans-serif" font-size="24" font-weight="700">Date: ________</text>
+  <g font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#fff">
+    <rect x="75" y="210" width="78" height="55" fill="#0862bb"/><text x="99" y="246">#</text>
+    <rect x="153" y="210" width="300" height="55" fill="#0862bb"/><text x="250" y="246">PLAYER</text>
+    <rect x="453" y="210" width="200" height="55" fill="#0862bb"/><text x="505" y="246">POSITION</text>
+    <rect x="653" y="210" width="180" height="55" fill="#0862bb"/><text x="700" y="246">STATUS</text>
+    <rect x="833" y="210" width="180" height="55" fill="#0862bb"/><text x="865" y="246">DEF. INN.</text>
+    <rect x="1013" y="210" width="105" height="55" fill="#0862bb"/><text x="1031" y="246">BAT</text>
+  </g>
+  <g font-family="Arial,sans-serif" font-size="22" fill="#11283f">
+    <g fill="#f4faff"><rect x="75" y="265" width="1043" height="52"/><rect x="75" y="369" width="1043" height="52"/><rect x="75" y="473" width="1043" height="52"/></g>
+    <g stroke="#b9d5e9" stroke-width="2" fill="none"><path d="M75 210v365M153 210v365M453 210v365M653 210v365M833 210v365M1013 210v365M1118 210v365M75 210h1043M75 265h1043M75 317h1043M75 369h1043M75 421h1043M75 473h1043M75 525h1043M75 575h1043"/></g>
+    <text x="105" y="300">1</text><text x="190" y="300">Jordan Lee</text><text x="510" y="300">SS</text><text x="700" y="300">Starter</text><text x="885" y="300">1  2  3</text><text x="1048" y="300">✓</text>
+    <text x="105" y="352">2</text><text x="190" y="352">Taylor Kim</text><text x="510" y="352">CF</text><text x="700" y="352">Starter</text><text x="885" y="352">1  2  3</text><text x="1048" y="352">✓</text>
+    <text x="105" y="404">3</text><text x="190" y="404">Casey Morgan</text><text x="510" y="404">P</text><text x="700" y="404">Starter</text><text x="885" y="404">1  2</text><text x="1048" y="404">✓</text>
+    <text x="105" y="456">4</text><text x="190" y="456">Riley Santos</text><text x="510" y="456">C</text><text x="700" y="456">Starter</text><text x="885" y="456">1  2</text><text x="1048" y="456">✓</text>
+    <text x="105" y="508">5</text><text x="190" y="508">Avery Brooks</text><text x="510" y="508">1B</text><text x="700" y="508">Starter</text><text x="885" y="508">1  2  3</text><text x="1048" y="508">✓</text>
+    <text x="105" y="558">6–9</text><text x="190" y="558">Continue batting order...</text><text x="510" y="558">Positions</text><text x="700" y="558">Starter / sub</text><text x="885" y="558">Track</text><text x="1048" y="558">✓</text>
+  </g>
+  <rect x="75" y="605" width="1043" height="75" rx="12" fill="#fff8de" stroke="#ffd66b" stroke-width="3"/>
+  <text x="98" y="635" fill="#11283f" font-family="Arial,sans-serif" font-size="20" font-weight="700">COACH NOTES</text>
+  <text x="98" y="662" fill="#11283f" font-family="Arial,sans-serif" font-size="18">Pitcher/catcher restrictions: ____________________   Substitution plan: ____________________</text>
+</svg>

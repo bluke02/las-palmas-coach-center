@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" role="img" aria-labelledby="title desc">
+  <title id="title">Standard baseball field positions</title>
+  <desc id="desc">Diagram labeling pitcher, catcher, four infield positions, and three outfield positions.</desc>
+  <rect width="1000" height="700" fill="#dff1d8"/>
+  <path d="M500 80L900 480L500 650L100 480Z" fill="#78bd68" stroke="#fff" stroke-width="8"/>
+  <path d="M500 310L670 480L500 650L330 480Z" fill="#b98254" stroke="#fff" stroke-width="6"/>
+  <path d="M500 80L900 480M900 480L500 650M500 650L100 480M100 480L500 80" stroke="#fff" stroke-width="5" fill="none"/>
+  <circle cx="500" cy="370" r="42" fill="#b98254" stroke="#fff" stroke-width="5"/>
+  <g font-family="Arial,sans-serif" font-size="25" font-weight="700" text-anchor="middle">
+    <g fill="#031f46"><rect x="450" y="250" width="100" height="42" rx="12"/><text x="500" y="280" fill="#fff">P</text><rect x="450" y="615" width="100" height="42" rx="12"/><text x="500" y="645" fill="#fff">C</text></g>
+    <g fill="#0862bb"><rect x="250" y="430" width="120" height="42" rx="12"/><text x="310" y="460" fill="#fff">3B</text><rect x="630" y="430" width="120" height="42" rx="12"/><text x="690" y="460" fill="#fff">1B</text><rect x="325" y="320" width="120" height="42" rx="12"/><text x="385" y="350" fill="#fff">SS</text><rect x="555" y="320" width="120" height="42" rx="12"/><text x="615" y="350" fill="#fff">2B</text></g>
+    <g fill="#164b7b"><rect x="110" y="170" width="150" height="42" rx="12"/><text x="185" y="200" fill="#fff">LF</text><rect x="425" y="100" width="150" height="42" rx="12"/><text x="500" y="130" fill="#fff">CF</text><rect x="740" y="170" width="150" height="42" rx="12"/><text x="815" y="200" fill="#fff">RF</text></g>
+  </g>
+  <text x="500" y="40" fill="#031f46" font-family="Arial,sans-serif" font-size="30" font-weight="700" text-anchor="middle">STANDARD FIELD POSITIONS</text>
+</svg>
